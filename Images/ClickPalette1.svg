@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 810">
   <g id="RenderedImage">
-    <image width="1920" height="1080" transform="translate(0) scale(0.75)" xlink:href="https://github.com/angtests/angtests.github.io/blob/3c601c33ea2e7af6566c2ddafb1f22a06fb73258/Images/Palette_whole-img.png?sanitize=true"/>
+    <image width="1920" height="1080" transform="translate(0) scale(0.75)" img src="/Images/Palette_whole-img.jpg"/>
   </g>
   <g id="Wood">
     <rect x="329.92" y="503.08" width="180.36" height="180.36" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="5"/>
