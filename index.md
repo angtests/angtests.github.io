@@ -1,2 +1,3 @@
-![Alt text](Images/ClickPalette.svg)
+<img src="Images/Ligne claire scene save-as.svg">
+
 <img src="Images/ClickPalette.svg">
