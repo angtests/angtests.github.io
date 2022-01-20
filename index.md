@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -18,7 +19,7 @@
 </g>
 <g id="RenderedImage">
 	
-		<image style="overflow:visible;" width="1920" height="1080" img src="Palette_whole-img.png"  transform="matrix(0.75 0 0 0.75 0 0)">
+		<image style="overflow:visible;" width="1920" height="1080" xlink:href="Palette_whole-img.png"  transform="matrix(0.75 0 0 0.75 0 0)">
 	</image>
 </g>
 </svg>
