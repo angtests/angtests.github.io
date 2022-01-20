@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+##Palette Image Map Test
 
-You can use the [editor on GitHub](https://github.com/angtests/angtests.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/angtests/angtests.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<title>IMPalette</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (IMPalette.psd) -->
+<table id="Table_01" width="1920" height="1080" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="3">
+			<img src="images/IMPalette_01.gif" width="1920" height="428" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/IMPalette_02.gif" width="337" height="652" alt=""></td>
+		<td>
+			<a href="https://img-aws.ehowcdn.com/877x500p/photos.demandstudios.com/getty/article/181/173/495604071.jpg?type=webp">
+				<img src="images/MarbleLink.jpg" width="568" height="560" border="0" alt=""></a></td>
+		<td rowspan="2">
+			<img src="images/IMPalette_04.gif" width="1015" height="652" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/IMPalette_05.gif" width="568" height="92" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
