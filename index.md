@@ -7,7 +7,7 @@
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
-<table id="Table_01" width="1920" height="1080" border="100" cellpadding="0" cellspacing="0">
+<table id="Table_01" width="1920" height="1080" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td colspan="3">
 			<img src="images/IMPalette_01.gif" width="1920" height="428" alt=""></td>
